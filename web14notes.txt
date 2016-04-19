@@ -20,3 +20,5 @@ only 6-level header tag allows in html
 --paragraph tag
 html ignore space and line break, so we need to use <p> tag, <br/> is a self closing tag, means break
 <hr/> self closing horizontal row.
+--text formatting
+<strong> bold text, <em> italic, <u> underlined <strike>一条横线删除
