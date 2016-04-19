@@ -61,3 +61,5 @@ anchor:
 <td>:table data
 <tr><th></th></tr>
 <tr><td></td></tr>
+--html entities 加一些特殊字符或者html无法识别的 http://www.w3schools.com/html/html_entities.asp
+&lt;a> //less than
