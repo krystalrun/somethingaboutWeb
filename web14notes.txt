@@ -32,4 +32,4 @@ html ignore space and line break, so we need to use <p> tag, <br/> is a self clo
 </ol>
 --image
 from local: <img src="images/image.png" />
-from url: <img src="url...png" />  
+from url: <img src="url...png" width="100" height="200"/>  --还可以设置宽高属性
