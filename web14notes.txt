@@ -57,3 +57,4 @@ anchor:
 <a href="#top">Click me to go to the top of the page</a>
 --table
 <tr>:table row
+<th>:table header
