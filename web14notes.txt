@@ -22,3 +22,7 @@ html ignore space and line break, so we need to use <p> tag, <br/> is a self clo
 <hr/> self closing horizontal row.
 --text formatting
 <strong> bold text, <em> italic, <u> underlined <strike>一条横线删除
+--unordered list
+<ul>
+  <li></li>
+</ul>
