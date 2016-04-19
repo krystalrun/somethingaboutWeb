@@ -33,3 +33,18 @@ html ignore space and line break, so we need to use <p> tag, <br/> is a self clo
 --image
 from local: <img src="images/image.png" />
 from url: <img src="url...png" width="100" height="200"/>  --还可以设置宽高属性
+--form
+<form>
+  <input type="text" value="example"/>  //placeholder="example2" name="email", type还可以是email等
+  <textarea></textarea>
+  <select>
+  		<option>Select an option</option>
+			<option>Option 1</option>
+	</select>
+
+	<input type="radio" name="color" />Red
+
+  <input type="checkbox"/>Dog
+  
+  <input type="submit" value="Click Me!"/> //url变成了后面有?的形式，GET method by default, into the string in the url:index.html?email=testme%40com.edu
+<form>
