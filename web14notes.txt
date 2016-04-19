@@ -26,3 +26,10 @@ html ignore space and line break, so we need to use <p> tag, <br/> is a self clo
 <ul>
   <li></li>
 </ul>
+--ordered list
+<ol>
+  <li></li>
+</ol>
+--image
+from local: <img src="images/image.png" />
+from url: <img src="url...png" />  
