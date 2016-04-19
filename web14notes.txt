@@ -15,4 +15,7 @@ Structure of A Webpage
   <body>
 </html>
 
+--header tag
 only 6-level header tag allows in html
+--paragraph tag
+html ignore space and line break, so we need to use <p> tag, <br/> is a self closing tag, means break
