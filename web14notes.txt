@@ -57,5 +57,7 @@ anchor:
 <a href="#top">Click me to go to the top of the page</a>
 --table
 <tr>:table row
-<th>:table header
+<th>:table header, default to be bold
 <td>:table data
+<tr><th></th></tr>
+<tr><td></td></tr>
