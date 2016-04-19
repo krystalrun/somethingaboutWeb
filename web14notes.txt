@@ -46,5 +46,5 @@ from url: <img src="url...png" width="100" height="200"/>  --还可以设置宽�
 
   <input type="checkbox"/>Dog
   
-  <input type="submit" value="Click Me!"/> //url变成了后面有?的形式，GET method by default, into the string in the url:index.html?email=testme%40com.edu
+  <input type="submit" value="Click Me!"/> //url变成了后面有?的形式，GET method by default, once you put name in your attribute of your form, you can submit that such as :index.html?email=testme%40com.edu
 <form>
